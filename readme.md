@@ -15,6 +15,8 @@ languages and tools i reach for regularly:
   a lightweight modal text editor written in pure c.
   features an avl-balanced rope buffer to handle larger documents with low memory and runtime overhead.
   compiles to a roughly 118 kb binary with minimal dependencies.
+- **winds**
+  a c compiler without LLVM. made with optimization.
 
 ## open source contributions
 
