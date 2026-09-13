@@ -6,7 +6,7 @@ hello. i am don2e4, a self-taught freelancer who has been coding for several mon
 
 languages and tools i reach for regularly:
 
-- languages: c, c++, forth, python
+- languages: c, c++, forth, python, julia, gleam, zig
 - tools and environment: linux, make, gcc, clang, gdb, valgrind, git
 
 ## projects
