@@ -1,5 +1,7 @@
 # don2e4
 
+[![don has cool stars.](https://github-stats-extended.vercel.app/api?username=don2e4)](https://github.com/stats-organization/github-stats-extended)
+
 hello. i am don2e4, a self-taught freelancer who has been coding for several months. i enjoy working with small, well-understood systems, learning how things operate close to the metal, and helping maintain and tidy software that others rely on.
 
 ## stack
