@@ -30,6 +30,11 @@ languages and tools i reach for regularly:
   - per-monitor workspaces
   - focus model fixes
   - documentation updates
+- **bendlang/bend** - [pull request 845](https://github.com/bendlang/bend/pull/845)
+  - Bend 2 language-server tooling
+  - formatting support
+  - compiler-backed diagnostics
+  - hover support
 
 ## coding philosophy
 
